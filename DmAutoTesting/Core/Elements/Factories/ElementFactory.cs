@@ -28,7 +28,7 @@ namespace Core.Elements.Factories
         public IElement AsElement()
         {
             return Element == null
-                ? (IElement) new EmptyElement(searchCriteria, searchable)
+                ? new EmptyElement(searchCriteria, searchable)
                 : (IElement) new Element(Element, WebDriver);
         }
 
