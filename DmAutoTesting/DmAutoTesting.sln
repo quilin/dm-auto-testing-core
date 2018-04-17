@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{780032DA-41D8-4274-B41E-5FEC4B8CCA2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Testing", "Core.Testing\Core.Testing.csproj", "{83D4FED8-795C-41E8-A2D3-BAA199308487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowIntegration", "SpecflowIntegration\SpecflowIntegration.csproj", "{B246B1EB-EDF7-4D53-AA3D-5A84F73506D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{780032DA-41D8-4274-B41E-5FEC4B8CCA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780032DA-41D8-4274-B41E-5FEC4B8CCA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780032DA-41D8-4274-B41E-5FEC4B8CCA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780032DA-41D8-4274-B41E-5FEC4B8CCA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D4FED8-795C-41E8-A2D3-BAA199308487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D4FED8-795C-41E8-A2D3-BAA199308487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D4FED8-795C-41E8-A2D3-BAA199308487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D4FED8-795C-41E8-A2D3-BAA199308487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B246B1EB-EDF7-4D53-AA3D-5A84F73506D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B246B1EB-EDF7-4D53-AA3D-5A84F73506D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B246B1EB-EDF7-4D53-AA3D-5A84F73506D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B246B1EB-EDF7-4D53-AA3D-5A84F73506D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
